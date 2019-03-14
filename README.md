@@ -1,6 +1,7 @@
 # Professor frisby's mostly adequate guide to functional programming
 
 ## Chapter 1
+[Slides][1]
 
 ## Chapter 2
 [Kahoot](https://create.kahoot.it/share/fp-from-zero-chapter-2/5ded9f3c-8360-4ab8-883e-0458cdadaa66)
@@ -10,3 +11,6 @@
 
 ## Chapter 4
 [Slides](https://docs.google.com/presentation/d/1oKBhiMZxVtQ-datMhFsbCGpv3jTu2YQKCb8y2KlpMhU/edit?usp=sharing)
+
+
+[1]: https://docs.google.com/presentation/d/1Q5-gx9n4AZi9E9Sc5MAaOs-eT4jzXcWRrPpudzvvDfM/edit?usp=sharing

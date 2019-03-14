@@ -5,6 +5,7 @@
 
 ## Chapter 2
 [Kahoot](https://create.kahoot.it/share/fp-from-zero-chapter-2/5ded9f3c-8360-4ab8-883e-0458cdadaa66)
+
 [Slides](slides/chap2.pptx)
 
 ## Chapter 3

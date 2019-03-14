@@ -2,6 +2,7 @@
 
 ## Chapter 1
 [Slides][1]
+[Kahoot Quiz](https://create.kahoot.it/share/fp-from-zero-chapter-1/28734478-6ded-4175-a4c1-7c059a2c065e)
 
 ## Chapter 2
 [Kahoot](https://create.kahoot.it/share/fp-from-zero-chapter-2/5ded9f3c-8360-4ab8-883e-0458cdadaa66)

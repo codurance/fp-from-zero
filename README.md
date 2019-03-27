@@ -19,3 +19,9 @@
 
 
 [1]: https://docs.google.com/presentation/d/1Q5-gx9n4AZi9E9Sc5MAaOs-eT4jzXcWRrPpudzvvDfM/edit?usp=sharing
+
+## Chapter 5
+
+## Chapter 6
+
+## Chapter 7

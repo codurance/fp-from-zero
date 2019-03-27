@@ -23,5 +23,6 @@
 ## Chapter 5
 
 ## Chapter 6
+[Slides](https://docs.google.com/presentation/d/1nRVqx5zWUrtovQg6fXOeW0T-oZOovMZdnburGVo8D3I/edit?usp=sharing)
 
 ## Chapter 7

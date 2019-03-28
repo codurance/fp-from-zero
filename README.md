@@ -19,6 +19,8 @@
 ## Chapter 5
 [Exercises...(well, more Examples)](http://blog.ricardofilipe.com/post/javascript-composition-for-dummies)
 
+[Kahoot](https://create.kahoot.it/share/compose/8f14b6da-0c61-487c-a9c7-9c717b0533b0)
+
 ## Chapter 6
 [Slides](https://docs.google.com/presentation/d/1nRVqx5zWUrtovQg6fXOeW0T-oZOovMZdnburGVo8D3I/edit?usp=sharing)
 

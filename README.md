@@ -17,7 +17,7 @@
 [Slides](https://docs.google.com/presentation/d/1oKBhiMZxVtQ-datMhFsbCGpv3jTu2YQKCb8y2KlpMhU/edit?usp=sharing)
 
 ## Chapter 5
-[Exercises...(well, more Examples](http://blog.ricardofilipe.com/post/javascript-composition-for-dummies)
+[Exercises...(well, more Examples)](http://blog.ricardofilipe.com/post/javascript-composition-for-dummies)
 
 ## Chapter 6
 [Slides](https://docs.google.com/presentation/d/1nRVqx5zWUrtovQg6fXOeW0T-oZOovMZdnburGVo8D3I/edit?usp=sharing)

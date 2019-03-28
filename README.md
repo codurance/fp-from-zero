@@ -26,3 +26,4 @@
 [Slides](https://docs.google.com/presentation/d/1nRVqx5zWUrtovQg6fXOeW0T-oZOovMZdnburGVo8D3I/edit?usp=sharing)
 
 ## Chapter 7
+[Slides](slides/chap7.pptx)

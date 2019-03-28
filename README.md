@@ -24,4 +24,5 @@
 
 ## Chapter 7
 [Slides](slides/chap7.pptx)
+
 [Exercises... in the form of a Kahoot](https://play.kahoot.it/#/?quizId=60dd3f74-3395-446b-9660-cdce871b3781)

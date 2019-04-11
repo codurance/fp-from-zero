@@ -34,3 +34,5 @@
 [Part 8.4 Kahoot](https://create.kahoot.it/share/tupperware-use-cases/ee55a94b-67d0-4580-80a5-49d8f9fd23be)
 
 [Part 8.6 Kahoot](https://create.kahoot.it/share/tupperware-error-handling/bc30f43f-b223-4c69-a606-545fe0068421)
+
+[Part 8.7 to 8.9 Kahoot](https://create.kahoot.it/share/old-mcdonald-had-effects-asynchronous-tasks-and-a-spot-of-theory/00275914-db5e-4bb2-ad7f-f1d8f32ee451)

@@ -32,6 +32,8 @@
 ## Chapter 8
 [Slides 8.4 to 8.6](https://docs.google.com/presentation/d/1Ei-zPHpLjTUUEmR4KLJIA4HgsQ8QssYLLQFsSWjCKJM/edit?usp=sharing)
 
+[Kahoot Quiz 8.1-8.3](https://create.kahoot.it/share/fp-from-zero-chapter-8/02e58db9-3962-4350-8ba0-092fc3826b19)
+
 [Part 8.4 Kahoot](https://create.kahoot.it/share/tupperware-use-cases/ee55a94b-67d0-4580-80a5-49d8f9fd23be)
 
 [Part 8.6 Kahoot](https://create.kahoot.it/share/tupperware-error-handling/bc30f43f-b223-4c69-a606-545fe0068421)

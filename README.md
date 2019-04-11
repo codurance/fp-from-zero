@@ -28,3 +28,9 @@
 [Slides](slides/chap7.pptx)
 
 [Exercises... in the form of a Kahoot](https://play.kahoot.it/#/?quizId=60dd3f74-3395-446b-9660-cdce871b3781)
+
+## Chapter 8
+
+[Part 8.4 Kahoot](https://create.kahoot.it/share/tupperware-use-cases/ee55a94b-67d0-4580-80a5-49d8f9fd23be)
+
+[Part 8.6 Kahoot](https://create.kahoot.it/share/tupperware-error-handling/bc30f43f-b223-4c69-a606-545fe0068421)

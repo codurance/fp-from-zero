@@ -39,3 +39,6 @@
 [Part 8.6 Kahoot](https://create.kahoot.it/share/tupperware-error-handling/bc30f43f-b223-4c69-a606-545fe0068421)
 
 [Part 8.7 to 8.9 Kahoot](https://create.kahoot.it/share/old-mcdonald-had-effects-asynchronous-tasks-and-a-spot-of-theory/00275914-db5e-4bb2-ad7f-f1d8f32ee451)
+
+## Chapter 10
+[Part 10.5 to 10.7 Kahoot](https://create.kahoot.it/share/laws-operators-and-free-can-openers/82fa8e9d-7c1b-4820-b237-0e56b0ed953e)
